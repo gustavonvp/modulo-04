@@ -9,7 +9,7 @@
   <a align="center">rodar o projeto com npm dev ou yarn dev</a>  
   
 <h3>:orange_book:Tecnologias</h3>
-- [x] [Babel](https://babeljs.io/) para transpilar o código para o navegador
-- [x] [WebPack](https://webpack.js.org/) para empacotar e permitir uso de plugins para uso de diferentes arquivos.
-- [x] [react](https://pt-br.reactjs.org/) para criação de componentes 
+[x] [Babel](https://babeljs.io/) para transpilar o código para o navegador
+[x] [WebPack](https://webpack.js.org/) para empacotar e permitir uso de plugins para uso de diferentes arquivos.
+[x] [react](https://pt-br.reactjs.org/) para criação de componentes 
 
