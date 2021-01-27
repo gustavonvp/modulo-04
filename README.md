@@ -6,7 +6,7 @@
 
 <h2> :japanese_goblin: Rodar o Projeto </h2>
 <a align="center">Para rodar o modulo-04 react, basta clonar o projeto com <b>git clone</b> 'url do projeto' e instalar dependências via <b>yarn</b> ou <b>npm</b><a/>
-  <a align="center">rodar o projeto com npm dev ou yarn dev</a>  
+  <a align="center">rodar o projeto com <b>npm dev</b> ou <b>yarn dev</b></a>  
   
 <h3>:orange_book:Tecnologias</h3>
 
@@ -15,4 +15,5 @@
 - [x] [WebPack](https://webpack.js.org/) para empacotar e permitir uso de plugins para uso de diferentes arquivos.
 
 - [x] [react](https://pt-br.reactjs.org/) para criação de componentes 
+
 
