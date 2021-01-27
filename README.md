@@ -17,7 +17,7 @@
 - [x] [react](https://pt-br.reactjs.org/) para criação de componentes 
 
 
-##Modulo 05
+<h1>Modulo 05</h1>
 
 <h4>:space_invader: Rodar o projeto<h4>
   <a align="center">Para rodar o modulo-05 react, basta clonar o projeto com <b>git clone</b> 'url do projeto' e instalar dependências via <b>yarn</b> ou <b>npm</b><a/>
